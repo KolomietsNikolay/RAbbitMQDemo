@@ -1,0 +1,14 @@
+XDileviryRabbitMQ/bin/
+SettingsService/obj/
+XDileviryRabbitMQ/obj/
+SettingsService/bin/
+packages/
+ConsumerService/bin/
+ConsumerService/obj/
+RabbitMQManager/bin/
+Consumer/obj/
+RabbitMQManager/obj/
+Consumer/bin/
+ClientMVC/bin/
+ClientMVC/obj/
+.vs/
